@@ -1,0 +1,1 @@
+The purpose of this project is to evaluate unfiltered data about remote workers. From this we will filter and draw a conclusion from the data in order to answer the question, does remote work improve mental health?
